@@ -1,3 +1,5 @@
+https://playmoreh2.github.io/resume/
+
 # Freelancer Theme for Vuetify
 
 ## Project setup
